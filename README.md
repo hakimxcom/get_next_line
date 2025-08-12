@@ -25,13 +25,13 @@ On EOF or error: NULL.
 ## To compile
 gcc -Wall -Wextra -Werror -D BUFFER_SIZE=32 get_next_line.c get_next_line_utils.c -o gnl_test
 
-## File Structure:
-./n
+## File Structure:  
 ├── get_next_line.c  
 ├── get_next_line_utils.c  
 ├── get_next_line.h  
 ├── main.c # Optional test file  
 └── README.md /n  
+
 
 
 
