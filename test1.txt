@@ -12,5 +12,5 @@
 
 
 this is a random test line1 
-this gonna be the esecond line 2
-3rd line and good to go line3
+this gonna be the second line 2
+3rd line and good to go line 3
