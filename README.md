@@ -26,11 +26,12 @@ On EOF or error: NULL.
 gcc -Wall -Wextra -Werror -D BUFFER_SIZE=32 get_next_line.c get_next_line_utils.c -o gnl_test
 
 ## File Structure:
-.
-├── get_next_line.c
-├── get_next_line_utils.c
-├── get_next_line.h
-├── main.c            # Optional test file
-└── README.md
+./n
+├── get_next_line.c /n
+├── get_next_line_utils.c /n
+├── get_next_line.h /n
+├── main.c        /n    # Optional test file
+└── README.md /n
+
 
 
